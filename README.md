@@ -1,9 +1,5 @@
 # EpilepsyEpigenetics
-
 This site contains the scripts used for the analyses performed in our research paper, entitled "Commonalities in gene expression and methylation changes across two rat models of acquired epilepsy". This paper is the process of peer review. 
-
-# Protocol matters
-This site contains the scripts used for the analyses performed in our research paper, entitled "The impact of animal protocols on the reproducibility and rigor of DNA methylation data". This paper has been published in Scientific Reports. 
 
 ### Title: Commonalities in gene expression and methylation changes across two rat models of acquired epilepsy
 
