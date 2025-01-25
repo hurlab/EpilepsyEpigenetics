@@ -51,11 +51,14 @@ p_load(char = cran_packages, install = TRUE)
 p_load(char = bioc_packages, install = TRUE, repos = BiocManager::repositories())
 
 # Install and load GitHub packages
-for (pkg in github_packages) {
-  if (!p_isinstalled(pkg)) {
-    pacman::p_install_gh(pkg)
+for (i in seq_along(github_packages)) {
+  pkg_name <- names(github_packages)[i]
+  repo <- github_packages[i]
+  
+  if (!requireNamespace(pkg_name, quietly = TRUE)) {
+    pacman::p_install_gh(repo)
   }
-  pacman::p_load(pkg)
+  library(pkg_name, character.only = TRUE)
 }
 
 
