@@ -1,0 +1,30 @@
+sample	group	originalGroup	replicate	outlierByMadhu
+S1	Sham	Sham	Sham_1	no
+S4	Sham	Sham	Sham_4	no
+S5	Sham	Sham	Sham_5	no
+S6	Sham	Sham	Sham_6	no
+S7	5ADs	5ADs	5ADs_1	no
+S9	5ADs	5ADs	5ADs_3	no
+S10	5ADs	5ADs	5ADs_4	no
+S11	5ADs	5ADs	5ADs_5	no
+S12	5ADs	5ADs	5ADs_6	no
+S13	3ClassV1	3Class V	3ClassV1_1	no
+S14	3ClassV1	3Class V	3ClassV1_2	no
+S16	3ClassV1	3Class V	3ClassV1_4	no
+S17	3ClassV1	3Class V	3ClassV1_5	no
+S18	3ClassV1	3Class V	3ClassV1_6	no
+S19	SalineSham	Saline Sham	SalineSham_1	no
+S20	SalineSham	Saline Sham	SalineSham_2	no
+S21	SalineSham	Saline Sham	SalineSham_3	no
+S22	SalineSham	Saline Sham	SalineSham_4	no
+S23	SalineSham	Saline Sham	SalineSham_5	no
+S24	SalineSham	Saline Sham	SalineSham_6	no
+S25	1stlimbic	1st limbic	1stlimbic_1	no
+S26	1stlimbic	1st limbic	1stlimbic_2	no
+S27	1stlimbic	1st limbic	1stlimbic_3	no
+S28	1stlimbic	1st limbic	1stlimbic_4	no
+S29	1stlimbic	1st limbic	1stlimbic_5	no
+S30	1stlimbic	1st limbic	1stlimbic_6	no
+S32	3ClassV2	3 Class V	3ClassV2_2	no
+S34	3ClassV2	3 Class V	3ClassV2_4	no
+S35	3ClassV2	3 Class V	3ClassV2_5	no

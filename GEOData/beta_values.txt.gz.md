@@ -1,0 +1,1 @@
+beta_values.txt.gz should be downloaded from GEO database (GSE287824)
